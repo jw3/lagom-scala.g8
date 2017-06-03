@@ -1,3 +1,4 @@
+-Dsbt.override.build.repos=true
 -J-Xms512M
 -J-Xmx4096M
 -J-Xss2M
